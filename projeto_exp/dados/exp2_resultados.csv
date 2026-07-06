@@ -1,0 +1,81 @@
+algoritmo,heuristica,estados_gerados,estados_visitados,custo_total,sucesso,tamanho_caminho,codigo_entrada
+Busca Gulosa,DE,41,11,50,True,11,exp2_001
+Busca Gulosa,DM,41,11,50,True,11,exp2_001
+A*,DE,404,107,50,True,11,exp2_001
+A*,DM,363,96,50,True,11,exp2_001
+Busca Gulosa,DE,52,14,49,True,14,exp2_002
+Busca Gulosa,DM,52,14,49,True,14,exp2_002
+A*,DE,400,106,49,True,14,exp2_002
+A*,DM,369,98,49,True,14,exp2_002
+Busca Gulosa,DE,45,12,52,True,12,exp2_003
+Busca Gulosa,DM,45,12,48,True,12,exp2_003
+A*,DE,605,156,46,True,12,exp2_003
+A*,DM,557,142,46,True,12,exp2_003
+Busca Gulosa,DE,45,12,51,True,12,exp2_004
+Busca Gulosa,DM,45,12,46,True,12,exp2_004
+A*,DE,359,95,44,True,12,exp2_004
+A*,DM,339,90,44,True,12,exp2_004
+Busca Gulosa,DE,49,14,58,True,13,exp2_005
+Busca Gulosa,DM,42,13,47,True,13,exp2_005
+A*,DE,310,83,46,True,13,exp2_005
+A*,DM,290,78,46,True,13,exp2_005
+Busca Gulosa,DE,40,11,41,True,11,exp2_006
+Busca Gulosa,DM,40,11,44,True,11,exp2_006
+A*,DE,249,67,37,True,11,exp2_006
+A*,DM,226,61,37,True,11,exp2_006
+Busca Gulosa,DE,57,15,64,True,15,exp2_007
+Busca Gulosa,DM,57,15,66,True,15,exp2_007
+A*,DE,481,127,56,True,15,exp2_007
+A*,DM,439,116,56,True,15,exp2_007
+Busca Gulosa,DE,73,19,76,True,18,exp2_008
+Busca Gulosa,DM,69,18,75,True,18,exp2_008
+A*,DE,739,195,67,True,18,exp2_008
+A*,DM,715,188,67,True,18,exp2_008
+Busca Gulosa,DE,16,6,22,True,6,exp2_009
+Busca Gulosa,DM,16,6,22,True,6,exp2_009
+A*,DE,77,22,22,True,6,exp2_009
+A*,DM,74,21,22,True,6,exp2_009
+Busca Gulosa,DE,29,8,29,True,8,exp2_010
+Busca Gulosa,DM,29,8,37,True,8,exp2_010
+A*,DE,177,47,27,True,8,exp2_010
+A*,DM,158,42,27,True,8,exp2_010
+Busca Gulosa,DE,16,5,16,True,5,exp2_011
+Busca Gulosa,DM,16,5,15,True,5,exp2_011
+A*,DE,40,12,15,True,5,exp2_011
+A*,DM,37,11,15,True,5,exp2_011
+Busca Gulosa,DE,21,6,25,True,6,exp2_012
+Busca Gulosa,DM,21,6,24,True,6,exp2_012
+A*,DE,121,33,22,True,6,exp2_012
+A*,DM,106,29,22,True,6,exp2_012
+Busca Gulosa,DE,41,11,41,True,11,exp2_013
+Busca Gulosa,DM,41,11,44,True,11,exp2_013
+A*,DE,344,91,39,True,11,exp2_013
+A*,DM,304,80,39,True,11,exp2_013
+Busca Gulosa,DE,20,6,22,True,6,exp2_014
+Busca Gulosa,DM,19,6,23,True,6,exp2_014
+A*,DE,127,33,21,True,6,exp2_014
+A*,DM,103,27,21,True,6,exp2_014
+Busca Gulosa,DE,48,13,62,True,13,exp2_015
+Busca Gulosa,DM,47,13,62,True,13,exp2_015
+A*,DE,440,116,48,True,13,exp2_015
+A*,DM,377,100,48,True,13,exp2_015
+Busca Gulosa,DE,17,5,17,True,5,exp2_016
+Busca Gulosa,DM,17,5,17,True,5,exp2_016
+A*,DE,81,21,16,True,5,exp2_016
+A*,DM,65,17,16,True,5,exp2_016
+Busca Gulosa,DE,60,16,68,True,16,exp2_017
+Busca Gulosa,DM,60,16,70,True,16,exp2_017
+A*,DE,522,138,58,True,16,exp2_017
+A*,DM,496,131,58,True,16,exp2_017
+Busca Gulosa,DE,21,6,19,True,6,exp2_018
+Busca Gulosa,DM,21,6,19,True,6,exp2_018
+A*,DE,110,29,18,True,6,exp2_018
+A*,DM,92,24,18,True,6,exp2_018
+Busca Gulosa,DE,53,14,52,True,14,exp2_019
+Busca Gulosa,DM,53,14,58,True,14,exp2_019
+A*,DE,536,140,49,True,14,exp2_019
+A*,DM,489,128,49,True,14,exp2_019
+Busca Gulosa,DE,52,14,63,True,14,exp2_020
+Busca Gulosa,DM,52,14,63,True,14,exp2_020
+A*,DE,486,128,53,True,14,exp2_020
+A*,DM,451,119,53,True,14,exp2_020

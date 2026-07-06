@@ -1,0 +1,7 @@
+heuristica,n_execucoes,media_estados_gerados,media_estados_visitados,media_custo_total
+h1_DE_x1,20,263.9,85.05,46.15
+h2_DE_x3,20,177.65,55.9,46.15
+h3_DE_x6,20,68.85,21.3,46.6
+h4_DM_x1,20,251.85,80.9,46.15
+h5_DM_x3,20,140.15,43.55,46.15
+h6_DM_x6,20,59.9,19.1,48.75
